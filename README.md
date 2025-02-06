@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/214G1A0527](https://github.com/214G1A0527)
 
